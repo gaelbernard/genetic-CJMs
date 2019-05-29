@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<trace>
+      <string key="generative-pattern" value="activity_03__+__activity_01__+__activity_03__+__activity_05"/>
+      <string key="concept:name" value="30"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_02__+__activity_04__+__activity_01"/>
+      <string key="concept:name" value="25"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_03__+__activity_01__+__activity_03__+__activity_05"/>
+      <string key="concept:name" value="27"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_04__+__activity_01__+__activity_02__+__activity_03__+__activity_04"/>
+      <string key="concept:name" value="22"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="40-59yo"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_01__+__activity_02__+__activity_03__+__activity_07"/>
+      <string key="concept:name" value="21"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <string key="income" value="low"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_03__+__activity_01__+__activity_03__+__activity_05"/>
+      <string key="concept:name" value="29"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_03__+__activity_01__+__activity_03__+__activity_05"/>
+      <string key="concept:name" value="26"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_02__+__activity_04__+__activity_01"/>
+      <string key="concept:name" value="24"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_03__+__activity_01__+__activity_03__+__activity_05"/>
+      <string key="concept:name" value="28"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_02__+__activity_04__+__activity_01"/>
+      <string key="concept:name" value="23"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+</log>

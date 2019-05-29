@@ -1,0 +1,1739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<trace>
+      <string key="concept:name" value="1411"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1443"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1500"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1454"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1406"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1442"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1413"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1408"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1441"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1418"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1447"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1455"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1428"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1440"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1475"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1409"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1426"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1499"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1482"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1458"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1416"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1486"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1403"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1468"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1495"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1405"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1438"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1452"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1462"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1480"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1469"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1427"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1432"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1466"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1417"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1498"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1451"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1446"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1453"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1421"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1420"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1431"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1464"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1449"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1407"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1463"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1496"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1484"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1485"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1450"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1419"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1497"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1430"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1425"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1448"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1433"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1439"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1415"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1423"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1437"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1479"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1483"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1489"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1494"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1456"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1467"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1493"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1459"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1477"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1487"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1461"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1410"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1465"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1471"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1435"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1474"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1488"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1460"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1422"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1444"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1472"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1412"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1404"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="40-59yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1429"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1473"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1402"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_09"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1457"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1481"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1476"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1424"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1434"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1492"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1478"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1445"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1470"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1436"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="0-19yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1491"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="60-79yo"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1414"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="20-39yo"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1490"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="1401"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="age" value="80yo+"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+	</trace>
+</log>

@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<trace>
+      <string key="concept:name" value="190"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="low"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="185"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="183"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="184"/>
+      <string key="owner" value="no"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="186"/>
+      <string key="owner" value="no"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="182"/>
+      <string key="owner" value="no"/>
+      <string key="income" value="low"/>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="189"/>
+      <string key="owner" value="no"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="188"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="187"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="concept:name" value="181"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+</log>

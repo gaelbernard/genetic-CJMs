@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="155"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_04__+__activity_03__+__activity_01"/>
+      <string key="concept:name" value="152"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="low"/>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="160"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="153"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="159"/>
+      <string key="owner" value="no"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_01__+__activity_01__+__activity_02"/>
+      <string key="concept:name" value="151"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="middle"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="154"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="157"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="158"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_03__+__activity_01__+__activity_01__+__activity_01"/>
+      <string key="concept:name" value="156"/>
+      <string key="owner" value="yes"/>
+      <string key="income" value="high"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+</log>

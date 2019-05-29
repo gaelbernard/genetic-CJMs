@@ -1,0 +1,2631 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+	<extension name="Concept" prefix="concept" uri="http://www.xes-standard.org/concept.xesext"/>
+	<extension name="Lifecycle" prefix="lifecycle" uri="http://www.xes-standard.org/lifecycle.xesext"/>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_04__+__activity_02__+__activity_05"/>
+      <string key="concept:name" value="3825"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3844"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_10__+__activity_03__+__activity_02"/>
+      <string key="concept:name" value="3819"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3897"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3900"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_04__+__activity_02__+__activity_05"/>
+      <string key="concept:name" value="3821"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3872"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3826"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3832"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_13__+__activity_08__+__activity_02"/>
+      <string key="concept:name" value="3814"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_12__+__activity_10__+__activity_15"/>
+      <string key="concept:name" value="3808"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_15"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_15"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3874"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3894"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3865"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_13__+__activity_08__+__activity_02"/>
+      <string key="concept:name" value="3815"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_12__+__activity_10__+__activity_15"/>
+      <string key="concept:name" value="3809"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_15"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3836"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3856"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3854"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3835"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3848"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3857"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3882"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3829"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3869"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3864"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3834"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3837"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3887"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3871"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3876"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3847"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3888"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3863"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3833"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3880"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3859"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3827"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3850"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_12__+__activity_10__+__activity_15"/>
+      <string key="concept:name" value="3810"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_15"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_13__+__activity_08__+__activity_02"/>
+      <string key="concept:name" value="3811"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_10__+__activity_03__+__activity_02"/>
+      <string key="concept:name" value="3816"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3858"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3893"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3870"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3831"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_01__+__activity_02__+__activity_03"/>
+      <string key="concept:name" value="3805"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_10__+__activity_03__+__activity_02"/>
+      <string key="concept:name" value="3817"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_04__+__activity_02__+__activity_05"/>
+      <string key="concept:name" value="3822"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3846"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3843"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3853"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_15"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3862"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_13__+__activity_08__+__activity_02"/>
+      <string key="concept:name" value="3813"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3828"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3895"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_12__+__activity_10__+__activity_15"/>
+      <string key="concept:name" value="3807"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_15"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3867"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3885"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3891"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3884"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3860"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3875"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3841"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3855"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3899"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3898"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3840"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3868"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3892"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3830"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3861"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3881"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_10__+__activity_03__+__activity_02"/>
+      <string key="concept:name" value="3820"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_04__+__activity_02__+__activity_05"/>
+      <string key="concept:name" value="3824"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3873"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3838"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_13__+__activity_08__+__activity_02"/>
+      <string key="concept:name" value="3812"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_08"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_01__+__activity_02__+__activity_03"/>
+      <string key="concept:name" value="3801"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_4"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_1"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_01__+__activity_02__+__activity_03"/>
+      <string key="concept:name" value="3804"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3839"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_12__+__activity_10__+__activity_15"/>
+      <string key="concept:name" value="3806"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3877"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_01__+__activity_02__+__activity_03"/>
+      <string key="concept:name" value="3803"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3889"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_05__+__activity_04__+__activity_02__+__activity_05"/>
+      <string key="concept:name" value="3823"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_04"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3851"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3878"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_02__+__activity_10__+__activity_03__+__activity_02"/>
+      <string key="concept:name" value="3818"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3896"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3845"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3886"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3879"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3890"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_3"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3852"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3849"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_0"/>
+      </event>
+      <event>
+          <string key="concept:name" value="noise_2"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3866"/>
+      <string key="owner" value="no"/>
+      <string key="employed" value="yes"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_10__+__activity_01__+__activity_02__+__activity_03"/>
+      <string key="concept:name" value="3802"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_10"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_03"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_01"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3842"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="no"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+	<trace>
+      <string key="generative-pattern" value="activity_12__+__activity_07__+__activity_06__+__activity_05__+__activity_02__+__activity_13__+__activity_14"/>
+      <string key="concept:name" value="3883"/>
+      <string key="owner" value="yes"/>
+      <string key="employed" value="no"/>
+      <string key="car_owner" value="yes"/>
+      <event>
+          <string key="concept:name" value="activity_12"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_07"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_06"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_05"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_02"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_13"/>
+      </event>
+      <event>
+          <string key="concept:name" value="activity_14"/>
+      </event>
+	</trace>
+</log>
